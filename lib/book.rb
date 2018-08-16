@@ -10,4 +10,5 @@ class Book
 
   attr_accessor :author
   attr_accessor :genre
+  attr_accessor :page_count
 end
